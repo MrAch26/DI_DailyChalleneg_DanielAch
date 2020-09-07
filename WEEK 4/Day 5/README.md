@@ -1,11 +1,8 @@
-# Week 4 - Day 1 - #PYTHON
+# Week 4 - Day 5 - #PYTHON
 
-DailyChallenge : https://github.com/MrAch26/python-DC-day1
+DailyChallenge : https://github.com/MrAch26/python-DC-day5
 -
 
-Python - Intro : https://github.com/MrAch26/Intro-Pyhton-day1 <br>
-
-Python - EXE : https://github.com/MrAch26/Python-EXE-day1 <br> 
-
+Python - MiniProject : https://github.com/MrAch26/python-miniproject
 
  

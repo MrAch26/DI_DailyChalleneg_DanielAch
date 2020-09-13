@@ -1,11 +1,11 @@
-# Week 5 - Day 1 - #OOP-Python
+# Week 6 - Day 1 - #DataBase
 
-DailyChallenge : https://github.com/MrAch26/python-DC-day1
+DailyChallenge : https://github.com/MrAch26/database-DC-day1
 -
 
-Python - Intro : https://github.com/MrAch26/Intro-Pyhton-day1 <br>
+Python - Intro : https://github.com/MrAch26/database-lesson-day1 <br>
 
-Python - EXE : https://github.com/MrAch26/Python-EXE-day1 <br> 
+Python - EXE : https://github.com/MrAch26/database-exe-day1 <br> 
 
 
  
